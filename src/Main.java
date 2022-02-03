@@ -3,9 +3,9 @@ public class Main {
 
         int ticketPrice = 800;
         int milesPerRuble = 20;
-        int miles = ticketPrice/milesPerRuble;
+        int miles = ticketPrice / milesPerRuble;
 
-        System.out.println("Вы заработали "+ miles + " миль с этой покупки, поздравляем!");
+        System.out.println("Вы заработали " + miles + " миль с этой покупки, поздравляем!");
 
 
     }
